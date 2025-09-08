@@ -240,3 +240,6 @@ Thumbs.db
 config.ini
 secrets.json
 .secrets
+archive_unused/
+result/
+log/
